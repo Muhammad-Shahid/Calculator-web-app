@@ -1,0 +1,22 @@
+#main_body {
+    border: 2px solid black;
+   position: absolute;
+   padding: 10px;
+       border-radius: 25px
+}
+
+#ans_field {
+
+    border: 2px solid black;
+     width: 150px;
+    height: 40px;
+    overflow: hidden;
+}
+
+.button{
+     border: none;
+    padding: 20px;
+    text-align: center;
+     display: inline-block;
+     border-radius: 25px
+}
